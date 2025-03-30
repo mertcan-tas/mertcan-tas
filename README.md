@@ -18,7 +18,7 @@ I have worked on AI applications, automation tools, and high-performance web sys
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)  [![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?logo=celery&logoColor=ddf4a4)](#)
 
 ### Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) 
 
 ### DevOps & Tools  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white)](#) [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=Sourcetree&logoColor=white)](#) [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
