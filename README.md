@@ -21,6 +21,6 @@ I have worked on AI applications, automation tools, and high-performance web sys
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) 
 
 ### DevOps & Tools  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white)](#) [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=Sourcetree&logoColor=white)](#) [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)](#)  [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white)](#) [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=Sourcetree&logoColor=white)](#) [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) 
 
 
