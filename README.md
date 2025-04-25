@@ -9,10 +9,10 @@ Beyond development, I'm also interested in branding, automation, and optimizing 
 I have worked on AI applications, automation tools, and high-performance web systems, focusing on scalability, efficiency, and seamless user experiences. With expertise in backend and full-stack development, I specialize in API design, database optimization, and system integration, constantly exploring new technologies to push boundaries and drive innovation.
 
 ### Languages  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 	[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 	[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ### Front-end  
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) 
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) 
 
 ### Back-end  
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)  [![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?logo=celery&logoColor=ddf4a4)](#)
