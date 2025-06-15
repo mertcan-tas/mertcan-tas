@@ -8,19 +8,4 @@ Beyond development, I'm also interested in branding, automation, and optimizing 
 
 I have worked on AI applications, automation tools, and high-performance web systems, focusing on scalability, efficiency, and seamless user experiences. With expertise in backend and full-stack development, I specialize in API design, database optimization, and system integration, constantly exploring new technologies to push boundaries and drive innovation.
 
-### Languages  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 	[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-
-### Front-end  
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-
-### Back-end  
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)  [![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?logo=celery&logoColor=ddf4a4)](#)
-
-### Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) 
-
-### DevOps & Tools  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)](#)  [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white)](#) [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=Sourcetree&logoColor=white)](#) [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) 
-
 
