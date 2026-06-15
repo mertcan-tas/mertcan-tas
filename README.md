@@ -1,25 +1,73 @@
-# 👋 Hi
+<h1 align="center">Mertcan Taş</h1>
 
-I'm Mertcan Taş, a passionate software developer, AI enthusiast, and problem solver. I love tackling complex challenges and turning ideas into reality through technology. My work spans from building scalable web applications to exploring AI-driven projects and real-time systems.
+<p align="center">
+  Backend & full-stack developer · AI applications · automation
+</p>
 
-Beyond development, I'm also interested in branding, automation, and optimizing workflows to enhance efficiency. I enjoy experimenting with <b>new technologies and architectures</b>, always striving to create innovative and impactful solutions.
+<p align="center">
+  <a href="mailto:mertcan.tas@tutamail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/mertcan-tas"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+</p>
 
-# Experience
+---
 
-I have worked on AI applications, automation tools, and high-performance web systems, focusing on scalability, efficiency, and seamless user experiences. With expertise in backend and full-stack development, I specialize in API design, database optimization, and system integration, constantly exploring new technologies to push boundaries and drive innovation.
+### 👋 About
 
+I'm a backend & full-stack developer who turns messy problems into systems that ship and stay up.
+My focus is **clean API design, database optimization, and real-time architecture** — with a growing pull toward **AI-driven applications** and the automation that keeps everything running quietly in the background.
 
-### Languages  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 	[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+- 🔭 Building scalable web services and AI-powered tools
+- ⚙️ Into automation, real-time systems, and workflow optimization
+- 🧩 Backend-first, full-stack when it counts
+- 🌱 Always picking up new tech, architectures, and ideas
 
-### Front-end  
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+---
 
-### Back-end  
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)  [![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?logo=celery&logoColor=ddf4a4)](#)
+### 🛠️ Tech Stack
 
-### Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) 
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-### DevOps & Tools  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)](#)  [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white)](#) [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=Sourcetree&logoColor=white)](#)
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mertcan-tas&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=4169E1&text_color=767676" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcan-tas&layout=compact&hide_border=true&theme=transparent&text_color=767676&title_color=4169E1" />
+</p>
