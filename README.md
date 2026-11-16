@@ -2,7 +2,7 @@
 
 I build internet products alone — no investors, no team. Mostly **Django** and **Vue**: REST APIs, background jobs, real-time features and the automation around them. Lately also AI-powered tools.
 
-<a href="https://mertcan-tas.github.io"><img src="assets/links/blog.svg" alt="Blog" height="24"></a> <span>·</span> <a href="mailto:mertcan.tas@outlook.com"><img src="assets/links/email.svg" alt="Email" height="24"></a> <span>·</span> <a href="https://mertcan-tas.github.io/rss.xml"><img src="assets/links/rss.svg" alt="RSS" height="24"></a>
+**[Blog](https://mertcan-tas.github.io)** · **[Email](mailto:mertcan.tas@outlook.com)** · **[RSS](https://mertcan-tas.github.io/rss.xml)**
 
 <img src="assets/stats.svg" alt="GitHub contributions and most used languages" width="100%">
 
