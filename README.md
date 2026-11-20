@@ -8,6 +8,7 @@ I build internet products alone — no investors, no team. Mostly **Django** and
 
 **Recent writing**
 
+<a href="https://mertcan-tas.github.io/three-js-render-on-demand/"><img src="assets/links/threejs-render.svg" alt="Stop Rendering Frames Nobody Asked For in Three.js" height="26"></a><br>
 <a href="https://mertcan-tas.github.io/zero-downtime-django-deploys-docker-compose/"><img src="assets/links/zero-downtime.svg" alt="Zero-Downtime Django Deploys with Docker Compose" height="26"></a><br>
 <a href="https://mertcan-tas.github.io/how-to-run-background-jobs-in-django-using-redis-rq/"><img src="assets/links/redis-rq.svg" alt="How to Run Background Jobs in Django using Redis RQ" height="26"></a><br>
 <a href="https://mertcan-tas.github.io/manage-environment-variables-django-decouple/"><img src="assets/links/decouple.svg" alt="Using python-decouple to Manage Environment Variables in Django" height="26"></a><br>
